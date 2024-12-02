@@ -1,0 +1,326 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Uporabnik\\source\\repos\\RGIS- cultureConnect\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D02927C1-3282-40D1-AD71-8167DAF29D35}|RGIS- cultureConnect\\RGIS- cultureConnect.csproj|c:\\users\\uporabnik\\source\\repos\\rgis- cultureconnect\\rgis- cultureconnect\\ocena.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D02927C1-3282-40D1-AD71-8167DAF29D35}|RGIS- cultureConnect\\RGIS- cultureConnect.csproj|solutionrelative:rgis- cultureconnect\\ocena.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D02927C1-3282-40D1-AD71-8167DAF29D35}|RGIS- cultureConnect\\RGIS- cultureConnect.csproj|c:\\users\\uporabnik\\source\\repos\\rgis- cultureconnect\\rgis- cultureconnect\\ocenjevanjedogodkovui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D02927C1-3282-40D1-AD71-8167DAF29D35}|RGIS- cultureConnect\\RGIS- cultureConnect.csproj|solutionrelative:rgis- cultureconnect\\ocenjevanjedogodkovui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D02927C1-3282-40D1-AD71-8167DAF29D35}|RGIS- cultureConnect\\RGIS- cultureConnect.csproj|c:\\users\\uporabnik\\source\\repos\\rgis- cultureconnect\\rgis- cultureconnect\\nakupvstopnicui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D02927C1-3282-40D1-AD71-8167DAF29D35}|RGIS- cultureConnect\\RGIS- cultureConnect.csproj|solutionrelative:rgis- cultureconnect\\nakupvstopnicui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D02927C1-3282-40D1-AD71-8167DAF29D35}|RGIS- cultureConnect\\RGIS- cultureConnect.csproj|c:\\users\\uporabnik\\source\\repos\\rgis- cultureconnect\\rgis- cultureconnect\\iskalnikdogodkovui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D02927C1-3282-40D1-AD71-8167DAF29D35}|RGIS- cultureConnect\\RGIS- cultureConnect.csproj|solutionrelative:rgis- cultureconnect\\iskalnikdogodkovui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D02927C1-3282-40D1-AD71-8167DAF29D35}|RGIS- cultureConnect\\RGIS- cultureConnect.csproj|c:\\users\\uporabnik\\source\\repos\\rgis- cultureconnect\\rgis- cultureconnect\\dogodek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D02927C1-3282-40D1-AD71-8167DAF29D35}|RGIS- cultureConnect\\RGIS- cultureConnect.csproj|solutionrelative:rgis- cultureconnect\\dogodek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D02927C1-3282-40D1-AD71-8167DAF29D35}|RGIS- cultureConnect\\RGIS- cultureConnect.csproj|c:\\users\\uporabnik\\source\\repos\\rgis- cultureconnect\\rgis- cultureconnect\\vstopnica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D02927C1-3282-40D1-AD71-8167DAF29D35}|RGIS- cultureConnect\\RGIS- cultureConnect.csproj|solutionrelative:rgis- cultureconnect\\vstopnica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D02927C1-3282-40D1-AD71-8167DAF29D35}|RGIS- cultureConnect\\RGIS- cultureConnect.csproj|c:\\users\\uporabnik\\source\\repos\\rgis- cultureconnect\\rgis- cultureconnect\\upravljanjerezervacije.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D02927C1-3282-40D1-AD71-8167DAF29D35}|RGIS- cultureConnect\\RGIS- cultureConnect.csproj|solutionrelative:rgis- cultureconnect\\upravljanjerezervacije.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D02927C1-3282-40D1-AD71-8167DAF29D35}|RGIS- cultureConnect\\RGIS- cultureConnect.csproj|c:\\users\\uporabnik\\source\\repos\\rgis- cultureconnect\\rgis- cultureconnect\\upravljanjeregistracije.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D02927C1-3282-40D1-AD71-8167DAF29D35}|RGIS- cultureConnect\\RGIS- cultureConnect.csproj|solutionrelative:rgis- cultureconnect\\upravljanjeregistracije.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D02927C1-3282-40D1-AD71-8167DAF29D35}|RGIS- cultureConnect\\RGIS- cultureConnect.csproj|c:\\users\\uporabnik\\source\\repos\\rgis- cultureconnect\\rgis- cultureconnect\\upravljanjerazstav.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D02927C1-3282-40D1-AD71-8167DAF29D35}|RGIS- cultureConnect\\RGIS- cultureConnect.csproj|solutionrelative:rgis- cultureconnect\\upravljanjerazstav.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D02927C1-3282-40D1-AD71-8167DAF29D35}|RGIS- cultureConnect\\RGIS- cultureConnect.csproj|c:\\users\\uporabnik\\source\\repos\\rgis- cultureconnect\\rgis- cultureconnect\\upravljanjenakupov.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D02927C1-3282-40D1-AD71-8167DAF29D35}|RGIS- cultureConnect\\RGIS- cultureConnect.csproj|solutionrelative:rgis- cultureconnect\\upravljanjenakupov.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D02927C1-3282-40D1-AD71-8167DAF29D35}|RGIS- cultureConnect\\RGIS- cultureConnect.csproj|c:\\users\\uporabnik\\source\\repos\\rgis- cultureconnect\\rgis- cultureconnect\\ogledrazstavui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D02927C1-3282-40D1-AD71-8167DAF29D35}|RGIS- cultureConnect\\RGIS- cultureConnect.csproj|solutionrelative:rgis- cultureconnect\\ogledrazstavui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D02927C1-3282-40D1-AD71-8167DAF29D35}|RGIS- cultureConnect\\RGIS- cultureConnect.csproj|c:\\users\\uporabnik\\source\\repos\\rgis- cultureconnect\\rgis- cultureconnect\\razstava.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D02927C1-3282-40D1-AD71-8167DAF29D35}|RGIS- cultureConnect\\RGIS- cultureConnect.csproj|solutionrelative:rgis- cultureconnect\\razstava.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D02927C1-3282-40D1-AD71-8167DAF29D35}|RGIS- cultureConnect\\RGIS- cultureConnect.csproj|c:\\users\\uporabnik\\source\\repos\\rgis- cultureconnect\\rgis- cultureconnect\\registracijaui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D02927C1-3282-40D1-AD71-8167DAF29D35}|RGIS- cultureConnect\\RGIS- cultureConnect.csproj|solutionrelative:rgis- cultureconnect\\registracijaui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D02927C1-3282-40D1-AD71-8167DAF29D35}|RGIS- cultureConnect\\RGIS- cultureConnect.csproj|c:\\users\\uporabnik\\source\\repos\\rgis- cultureconnect\\rgis- cultureconnect\\rezervacijaui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D02927C1-3282-40D1-AD71-8167DAF29D35}|RGIS- cultureConnect\\RGIS- cultureConnect.csproj|solutionrelative:rgis- cultureconnect\\rezervacijaui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D02927C1-3282-40D1-AD71-8167DAF29D35}|RGIS- cultureConnect\\RGIS- cultureConnect.csproj|c:\\users\\uporabnik\\source\\repos\\rgis- cultureconnect\\rgis- cultureconnect\\upravljanjedogodkov.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D02927C1-3282-40D1-AD71-8167DAF29D35}|RGIS- cultureConnect\\RGIS- cultureConnect.csproj|solutionrelative:rgis- cultureconnect\\upravljanjedogodkov.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D02927C1-3282-40D1-AD71-8167DAF29D35}|RGIS- cultureConnect\\RGIS- cultureConnect.csproj|c:\\users\\uporabnik\\source\\repos\\rgis- cultureconnect\\rgis- cultureconnect\\uporabnik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D02927C1-3282-40D1-AD71-8167DAF29D35}|RGIS- cultureConnect\\RGIS- cultureConnect.csproj|solutionrelative:rgis- cultureconnect\\uporabnik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D02927C1-3282-40D1-AD71-8167DAF29D35}|RGIS- cultureConnect\\RGIS- cultureConnect.csproj|c:\\users\\uporabnik\\source\\repos\\rgis- cultureconnect\\rgis- cultureconnect\\rezervacija.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D02927C1-3282-40D1-AD71-8167DAF29D35}|RGIS- cultureConnect\\RGIS- cultureConnect.csproj|solutionrelative:rgis- cultureconnect\\rezervacija.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D02927C1-3282-40D1-AD71-8167DAF29D35}|RGIS- cultureConnect\\RGIS- cultureConnect.csproj|c:\\users\\uporabnik\\source\\repos\\rgis- cultureconnect\\rgis- cultureconnect\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D02927C1-3282-40D1-AD71-8167DAF29D35}|RGIS- cultureConnect\\RGIS- cultureConnect.csproj|solutionrelative:rgis- cultureconnect\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 88,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ocena.cs",
+              "DocumentMoniker": "C:\\Users\\Uporabnik\\source\\repos\\RGIS- cultureConnect\\RGIS- cultureConnect\\Ocena.cs",
+              "RelativeDocumentMoniker": "RGIS- cultureConnect\\Ocena.cs",
+              "ToolTip": "C:\\Users\\Uporabnik\\source\\repos\\RGIS- cultureConnect\\RGIS- cultureConnect\\Ocena.cs",
+              "RelativeToolTip": "RGIS- cultureConnect\\Ocena.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T23:16:27.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UpravljanjeNakupov.cs",
+              "DocumentMoniker": "C:\\Users\\Uporabnik\\source\\repos\\RGIS- cultureConnect\\RGIS- cultureConnect\\UpravljanjeNakupov.cs",
+              "RelativeDocumentMoniker": "RGIS- cultureConnect\\UpravljanjeNakupov.cs",
+              "ToolTip": "C:\\Users\\Uporabnik\\source\\repos\\RGIS- cultureConnect\\RGIS- cultureConnect\\UpravljanjeNakupov.cs",
+              "RelativeToolTip": "RGIS- cultureConnect\\UpravljanjeNakupov.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T23:07:14.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UpravljanjeRazstav.cs",
+              "DocumentMoniker": "C:\\Users\\Uporabnik\\source\\repos\\RGIS- cultureConnect\\RGIS- cultureConnect\\UpravljanjeRazstav.cs",
+              "RelativeDocumentMoniker": "RGIS- cultureConnect\\UpravljanjeRazstav.cs",
+              "ToolTip": "C:\\Users\\Uporabnik\\source\\repos\\RGIS- cultureConnect\\RGIS- cultureConnect\\UpravljanjeRazstav.cs",
+              "RelativeToolTip": "RGIS- cultureConnect\\UpravljanjeRazstav.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T23:07:18.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OcenjevanjeDogodkovUI.cs",
+              "DocumentMoniker": "C:\\Users\\Uporabnik\\source\\repos\\RGIS- cultureConnect\\RGIS- cultureConnect\\OcenjevanjeDogodkovUI.cs",
+              "RelativeDocumentMoniker": "RGIS- cultureConnect\\OcenjevanjeDogodkovUI.cs",
+              "ToolTip": "C:\\Users\\Uporabnik\\source\\repos\\RGIS- cultureConnect\\RGIS- cultureConnect\\OcenjevanjeDogodkovUI.cs",
+              "RelativeToolTip": "RGIS- cultureConnect\\OcenjevanjeDogodkovUI.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T22:59:27.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IskalnikDogodkovUI.cs",
+              "DocumentMoniker": "C:\\Users\\Uporabnik\\source\\repos\\RGIS- cultureConnect\\RGIS- cultureConnect\\IskalnikDogodkovUI.cs",
+              "RelativeDocumentMoniker": "RGIS- cultureConnect\\IskalnikDogodkovUI.cs",
+              "ToolTip": "C:\\Users\\Uporabnik\\source\\repos\\RGIS- cultureConnect\\RGIS- cultureConnect\\IskalnikDogodkovUI.cs",
+              "RelativeToolTip": "RGIS- cultureConnect\\IskalnikDogodkovUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T22:57:52.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UpravljanjeRegistracije.cs",
+              "DocumentMoniker": "C:\\Users\\Uporabnik\\source\\repos\\RGIS- cultureConnect\\RGIS- cultureConnect\\UpravljanjeRegistracije.cs",
+              "RelativeDocumentMoniker": "RGIS- cultureConnect\\UpravljanjeRegistracije.cs",
+              "ToolTip": "C:\\Users\\Uporabnik\\source\\repos\\RGIS- cultureConnect\\RGIS- cultureConnect\\UpravljanjeRegistracije.cs",
+              "RelativeToolTip": "RGIS- cultureConnect\\UpravljanjeRegistracije.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T23:07:22.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UpravljanjeRezervacije.cs",
+              "DocumentMoniker": "C:\\Users\\Uporabnik\\source\\repos\\RGIS- cultureConnect\\RGIS- cultureConnect\\UpravljanjeRezervacije.cs",
+              "RelativeDocumentMoniker": "RGIS- cultureConnect\\UpravljanjeRezervacije.cs",
+              "ToolTip": "C:\\Users\\Uporabnik\\source\\repos\\RGIS- cultureConnect\\RGIS- cultureConnect\\UpravljanjeRezervacije.cs",
+              "RelativeToolTip": "RGIS- cultureConnect\\UpravljanjeRezervacije.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T23:07:26.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Vstopnica.cs",
+              "DocumentMoniker": "C:\\Users\\Uporabnik\\source\\repos\\RGIS- cultureConnect\\RGIS- cultureConnect\\Vstopnica.cs",
+              "RelativeDocumentMoniker": "RGIS- cultureConnect\\Vstopnica.cs",
+              "ToolTip": "C:\\Users\\Uporabnik\\source\\repos\\RGIS- cultureConnect\\RGIS- cultureConnect\\Vstopnica.cs",
+              "RelativeToolTip": "RGIS- cultureConnect\\Vstopnica.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T23:00:44.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NakupVstopnicUI.cs",
+              "DocumentMoniker": "C:\\Users\\Uporabnik\\source\\repos\\RGIS- cultureConnect\\RGIS- cultureConnect\\NakupVstopnicUI.cs",
+              "RelativeDocumentMoniker": "RGIS- cultureConnect\\NakupVstopnicUI.cs",
+              "ToolTip": "C:\\Users\\Uporabnik\\source\\repos\\RGIS- cultureConnect\\RGIS- cultureConnect\\NakupVstopnicUI.cs",
+              "RelativeToolTip": "RGIS- cultureConnect\\NakupVstopnicUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T22:58:13.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dogodek.cs",
+              "DocumentMoniker": "C:\\Users\\Uporabnik\\source\\repos\\RGIS- cultureConnect\\RGIS- cultureConnect\\Dogodek.cs",
+              "RelativeDocumentMoniker": "RGIS- cultureConnect\\Dogodek.cs",
+              "ToolTip": "C:\\Users\\Uporabnik\\source\\repos\\RGIS- cultureConnect\\RGIS- cultureConnect\\Dogodek.cs",
+              "RelativeToolTip": "RGIS- cultureConnect\\Dogodek.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T22:54:35.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OgledRazstavUI.cs",
+              "DocumentMoniker": "C:\\Users\\Uporabnik\\source\\repos\\RGIS- cultureConnect\\RGIS- cultureConnect\\OgledRazstavUI.cs",
+              "RelativeDocumentMoniker": "RGIS- cultureConnect\\OgledRazstavUI.cs",
+              "ToolTip": "C:\\Users\\Uporabnik\\source\\repos\\RGIS- cultureConnect\\RGIS- cultureConnect\\OgledRazstavUI.cs",
+              "RelativeToolTip": "RGIS- cultureConnect\\OgledRazstavUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T23:06:32.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Razstava.cs",
+              "DocumentMoniker": "C:\\Users\\Uporabnik\\source\\repos\\RGIS- cultureConnect\\RGIS- cultureConnect\\Razstava.cs",
+              "RelativeDocumentMoniker": "RGIS- cultureConnect\\Razstava.cs",
+              "ToolTip": "C:\\Users\\Uporabnik\\source\\repos\\RGIS- cultureConnect\\RGIS- cultureConnect\\Razstava.cs",
+              "RelativeToolTip": "RGIS- cultureConnect\\Razstava.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T23:06:45.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RegistracijaUI.cs",
+              "DocumentMoniker": "C:\\Users\\Uporabnik\\source\\repos\\RGIS- cultureConnect\\RGIS- cultureConnect\\RegistracijaUI.cs",
+              "RelativeDocumentMoniker": "RGIS- cultureConnect\\RegistracijaUI.cs",
+              "ToolTip": "C:\\Users\\Uporabnik\\source\\repos\\RGIS- cultureConnect\\RGIS- cultureConnect\\RegistracijaUI.cs",
+              "RelativeToolTip": "RGIS- cultureConnect\\RegistracijaUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T23:06:50.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RezervacijaUI.cs",
+              "DocumentMoniker": "C:\\Users\\Uporabnik\\source\\repos\\RGIS- cultureConnect\\RGIS- cultureConnect\\RezervacijaUI.cs",
+              "RelativeDocumentMoniker": "RGIS- cultureConnect\\RezervacijaUI.cs",
+              "ToolTip": "C:\\Users\\Uporabnik\\source\\repos\\RGIS- cultureConnect\\RGIS- cultureConnect\\RezervacijaUI.cs",
+              "RelativeToolTip": "RGIS- cultureConnect\\RezervacijaUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T23:06:57.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UpravljanjeDogodkov.cs",
+              "DocumentMoniker": "C:\\Users\\Uporabnik\\source\\repos\\RGIS- cultureConnect\\RGIS- cultureConnect\\UpravljanjeDogodkov.cs",
+              "RelativeDocumentMoniker": "RGIS- cultureConnect\\UpravljanjeDogodkov.cs",
+              "ToolTip": "C:\\Users\\Uporabnik\\source\\repos\\RGIS- cultureConnect\\RGIS- cultureConnect\\UpravljanjeDogodkov.cs",
+              "RelativeToolTip": "RGIS- cultureConnect\\UpravljanjeDogodkov.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T23:01:17.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Uporabnik.cs",
+              "DocumentMoniker": "C:\\Users\\Uporabnik\\source\\repos\\RGIS- cultureConnect\\RGIS- cultureConnect\\Uporabnik.cs",
+              "RelativeDocumentMoniker": "RGIS- cultureConnect\\Uporabnik.cs",
+              "ToolTip": "C:\\Users\\Uporabnik\\source\\repos\\RGIS- cultureConnect\\RGIS- cultureConnect\\Uporabnik.cs",
+              "RelativeToolTip": "RGIS- cultureConnect\\Uporabnik.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T23:07:01.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Rezervacija.cs",
+              "DocumentMoniker": "C:\\Users\\Uporabnik\\source\\repos\\RGIS- cultureConnect\\RGIS- cultureConnect\\Rezervacija.cs",
+              "RelativeDocumentMoniker": "RGIS- cultureConnect\\Rezervacija.cs",
+              "ToolTip": "C:\\Users\\Uporabnik\\source\\repos\\RGIS- cultureConnect\\RGIS- cultureConnect\\Rezervacija.cs",
+              "RelativeToolTip": "RGIS- cultureConnect\\Rezervacija.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T23:06:54.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Uporabnik\\source\\repos\\RGIS- cultureConnect\\RGIS- cultureConnect\\Program.cs",
+              "RelativeDocumentMoniker": "RGIS- cultureConnect\\Program.cs",
+              "ToolTip": "C:\\Users\\Uporabnik\\source\\repos\\RGIS- cultureConnect\\RGIS- cultureConnect\\Program.cs",
+              "RelativeToolTip": "RGIS- cultureConnect\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T23:06:43.007Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
